@@ -81,7 +81,6 @@ def patient_dashboard(request):
 
 
 def attente_profile(request):
-
     return render(request,'patients/profil.html')
 
 
