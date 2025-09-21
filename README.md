@@ -37,8 +37,9 @@ L’objectif est de fournir un **suivi personnalisé de la santé** des patients
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/ton-utilisateur/medtrack.git
-cd medtrack
+git clone https://github.com/Abel-Dev-KPOKOUTA/MEDTRACK.git
+
+cd MEDTRACK
 
 # 2. Créer un environnement virtuel
 python -m venv venv
